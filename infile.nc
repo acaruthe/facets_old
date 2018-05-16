@@ -1,0 +1,1 @@
+/mnt/nrel/acaruthe/regcm/lake_001_skt_ATM.2010040100.nc

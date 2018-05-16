@@ -1,0 +1,1 @@
+/mnt/nrel/acaruthe/regcm/lake_001_skt_SRF.2010040100.nc
